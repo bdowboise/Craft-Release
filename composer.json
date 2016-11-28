@@ -1,0 +1,7 @@
+{
+  "name": "portonefive/craft-release",
+  "type": "craft-release",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
